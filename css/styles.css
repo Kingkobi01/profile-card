@@ -100,7 +100,7 @@ article {
 
         div {
             h2 {
-                margin-bottom: 1rem;
+                margin-bottom: 0.5rem;
                 font-size: var(--text-lg);
             }
 
@@ -112,7 +112,7 @@ article {
         }
 
         &>*:not(ul) {
-            margin-bottom: 2rem;
+            margin-bottom: 1rem;
         }
 
         ul>li {
